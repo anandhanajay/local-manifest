@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaome/miatoll" name="anandhanajay/android_device_xiaomi_miatoll.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaome/sm6250-common" name="anandhanajay/android_device_xiaome_sm6250-common.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/xiaome" name="anandhanajay/android_vendor_xiaome.git" remote="github" revision="master" />
+ <project path="kernel/xiaome/miatoll" name="xiaomeDevs/android_kernel_xiaome_miatoll-4.9.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
